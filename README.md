@@ -15,4 +15,5 @@ babel-perf
 > npm install
 > cd babel-7.9.x
 > npm install
+> npm run build
 ```
